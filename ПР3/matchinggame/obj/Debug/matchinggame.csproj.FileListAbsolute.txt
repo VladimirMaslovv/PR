@@ -1,0 +1,12 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\bin\Debug\matchinggame.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\bin\Debug\matchinggame.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\bin\Debug\matchinggame.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\matchinggame\matchinggame\obj\Debug\matchinggame.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\matchinggame\matchinggame\bin\Debug\matchinggame.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\matchinggame\matchinggame\obj\Debug\matchinggame.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\matchinggame\matchinggame\obj\Debug\matchinggame.pdb

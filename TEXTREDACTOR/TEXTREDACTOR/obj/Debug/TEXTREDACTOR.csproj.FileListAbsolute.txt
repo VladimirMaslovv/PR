@@ -1,0 +1,29 @@
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.GenerateResource.Cache
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артем,Забелина Виктория, Мезрукова Бария\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe.config
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.pdb
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csprojResolveAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Form1.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Астанов Артём, Безрукова Мария\FORMS\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.GenerateResource.Cache
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe.config
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.exe
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\bin\Debug\TEXTREDACTOR.pdb
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Form1.resources
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.Properties.Resources.resources
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.exe
+C:\Users\Администратор\Desktop\ВФ\ПР1\TEXTREDACTOR\TEXTREDACTOR\obj\Debug\TEXTREDACTOR.pdb
