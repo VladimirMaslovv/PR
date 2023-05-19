@@ -1,0 +1,10 @@
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\bin\Debug\pr11.exe.config
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\bin\Debug\pr11.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\bin\Debug\pr11.pdb
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.Form1.resources
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.exe
+Z:\Общая для записи студентам\205 гр\Маслов.Кувакин\pr11\pr11\obj\Debug\pr11.pdb
