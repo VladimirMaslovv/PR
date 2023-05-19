@@ -1,0 +1,34 @@
+C:\Users\студент\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\студент\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.exe
+C:\Users\студент\source\repos\WindowsFormsApp15\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.ScreenShot.resources
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.exe
+C:\Users\студент\source\repos\WindowsFormsApp15\obj\Debug\WindowsFormsApp15.pdb
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\bin\Debug\WindowsFormsApp15.exe.config
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\bin\Debug\WindowsFormsApp15.exe
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\bin\Debug\WindowsFormsApp15.pdb
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.Form1.resources
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.ScreenShot.resources
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.exe
+Z:\Общая для записи студентам\205 гр\Лукьянчиков, Пушков\!Программные модули\ПР4\obj\Debug\WindowsFormsApp15.pdb
+C:\Users\Администратор\Desktop\ВФ\ПР5\bin\Debug\WindowsFormsApp15.exe.config
+C:\Users\Администратор\Desktop\ВФ\ПР5\bin\Debug\WindowsFormsApp15.exe
+C:\Users\Администратор\Desktop\ВФ\ПР5\bin\Debug\WindowsFormsApp15.pdb
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.Form1.resources
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.Properties.Resources.resources
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.ScreenShot.resources
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.exe
+C:\Users\Администратор\Desktop\ВФ\ПР5\obj\Debug\WindowsFormsApp15.pdb
