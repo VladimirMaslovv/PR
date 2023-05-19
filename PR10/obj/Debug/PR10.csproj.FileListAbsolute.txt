@@ -1,0 +1,34 @@
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.exe.config
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.pdb
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csprojAssemblyReference.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.Form1.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.Properties.Resources.resources
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csproj.GenerateResource.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csproj.CoreCompileInputs.cache
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.exe
+Z:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.pdb
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.exe.config
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.exe
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.pdb
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.Form1.resources
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.exe
+G:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.pdb
+Y:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\bin\Debug\PR10.exe.config
+Y:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.exe
+Y:\Общая для записи студентам\205 гр\Сеткин Синицын\Программирование\Практические\PR10\obj\Debug\PR10.pdb
+C:\Users\Администратор\Desktop\PR10\bin\Debug\PR10.exe.config
+C:\Users\Администратор\Desktop\PR10\bin\Debug\PR10.exe
+C:\Users\Администратор\Desktop\PR10\bin\Debug\PR10.pdb
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.csproj.SuggestedBindingRedirects.cache
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.Form1.resources
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.Properties.Resources.resources
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.csproj.GenerateResource.cache
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.exe
+C:\Users\Администратор\Desktop\PR10\obj\Debug\PR10.pdb
